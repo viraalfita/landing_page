@@ -1,0 +1,27 @@
+@import url("https://fonts.google.com/specimen/Inter");
+
+@font-face {
+    font-family: font;
+    src: url(assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+
+.text {
+    font-family: font;
+}
+
+.navbar {
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+.text-orange {
+    color: hsl(35, 77%, 62%);
+}
+
+.bg-red {
+    background-color: hsl(5, 85%, 63%);
+}
+
+.text-grey {
+    color: hsla(24, 3%, 28%, 0.349);
+}
